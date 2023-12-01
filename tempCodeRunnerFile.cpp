@@ -26,7 +26,7 @@ double pythagoras(double xcomp, double ycomp){
 void showResult(double ycomp, double xcomp){
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n";
     cout << "Length of the resultant vector = " << ycomp <<"\n";
-    cout << "Direction of the resultant vector (deg) = " << xcomp <<"\n";
+    cout << "Direction of the resultant vector = " << xcomp <<"\n";
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";
 }
 
